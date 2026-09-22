@@ -1,9 +1,9 @@
 <update>
-  <version>1.0.2</version>
+  <version>1.0.3</version>
   <url>https://github.com/Yusuf-Ardiansyah/Router/releases/latest/download/app-release.apk</url>
   <changelog>
 [+] Security Update New
-[+] VPN V2ray / Vless New
+[+] VPN V2ray / Vless FIX
 [+] Deep Scan [PORT] New
 [+] Integrasi Secure DNS 
 [+] Advanced Ping Monitor
